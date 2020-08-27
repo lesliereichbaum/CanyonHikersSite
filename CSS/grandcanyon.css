@@ -1,0 +1,23 @@
+.jumbotron-fluid {
+    background-color: #92C8A6;
+    text-align: center;
+    color: #BD9448;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lead {
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-primary {
+    background-color: #Dbbe88;
+    margin: 5px;
+}
+
+.containerBody {
+    background-color: #Dbbe88;
+}
