@@ -6,6 +6,10 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.tree {
+    float: left;
+    margin-left: 5%;
+}
 .lead {
     color: whitesmoke;
     font-weight: bold;
@@ -21,3 +25,27 @@
 .containerBody {
     background-color: #Dbbe88;
 }
+.gallery {
+    margin: 2px;
+    float: left; 
+    width: 5%;
+    height: 5%;
+    size: 5%;
+    align: right;
+   
+}
+
+.submit1 {
+    color-background: blue
+}
+
+footer {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    height: 25%;
+    width: 25%;
+    background-color: #92C8A6;
+}
+
+/*Mole Animation*/
